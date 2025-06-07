@@ -1,0 +1,22 @@
+image: mcr.microsoft.com/dotnet/sdk:8.0
+
+stages:
+  - build
+  - test
+
+variables:
+  DOTNET_CLI_TELEMETRY_OPTOUT: "1"
+
+before_script:
+  - echo "🚀 Starting CI Pipeline..."
+
+build-job:
+  stage: build
+  script:
+    - dotnet restore SalesPilotCRM.sln
+    - dotnet build SalesPilotCRM.sln --no-restore --configuration Release
+
+test-job:
+  stage: test
+  script:
+    - dotnet test SalesPilotCRM.UnitTests/SalesPilotCRM.UnitTests.csproj --verbosity normal

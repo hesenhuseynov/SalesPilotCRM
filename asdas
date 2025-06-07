@@ -1,0 +1,52 @@
+[33mde4d997[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to de4d997
+[33me837724[m HEAD@{1}: reset: moving to e837724
+[33m5d4d552[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{2}: reset: moving to 5d4d552
+[33md23f947[m HEAD@{3}: reset: moving to d23f947
+[33m221bb67[m HEAD@{4}: pull origin main --rebase: Fast-forward
+[33ma166421[m HEAD@{5}: reset: moving to a166421
+[33md23f947[m HEAD@{6}: reset: moving to d23f947
+[33ma166421[m HEAD@{7}: reset: moving to HEAD~1
+[33m221bb67[m HEAD@{8}: commit: Fix: Restore appsettings and cleanup
+[33ma166421[m HEAD@{9}: commit: test: add basic tests
+[33m5377e80[m HEAD@{10}: commit: fix: add appsettings.json back into tracking
+[33m8574a04[m HEAD@{11}: commit: fix: remove appsettings.json from trackingg
+[33m13d8153[m HEAD@{12}: commit: fix: remove appsettings.json from tracking
+[33m3048936[m HEAD@{13}: commit: Fix: Remove production secrets and config from Git tracking
+[33mbb0f754[m HEAD@{14}: pull origin main --rebase (finish): returning to refs/heads/main
+[33mbb0f754[m HEAD@{15}: pull origin main --rebase (pick): Fix: Uncommitted local changes before pull
+[33mdcb31a8[m HEAD@{16}: pull origin main --rebase (pick): Update: Refactor config and program files
+[33m38c06a9[m HEAD@{17}: pull origin main --rebase (start): checkout 38c06a96fb67324e14927c07df4cebf53abb1c2c
+[33me250da7[m HEAD@{18}: commit: Fix: Uncommitted local changes before pull
+[33m52ff867[m[33m ([m[1;32mfeature/test-readme-update[m[33m)[m HEAD@{19}: merge feature/test-readme-update: Fast-forward
+[33md23f947[m HEAD@{20}: checkout: moving from feature/test-readme-update to main
+[33m52ff867[m[33m ([m[1;32mfeature/test-readme-update[m[33m)[m HEAD@{21}: checkout: moving from main to feature/test-readme-update
+[33md23f947[m HEAD@{22}: checkout: moving from feature/test-readme-update to main
+[33m52ff867[m[33m ([m[1;32mfeature/test-readme-update[m[33m)[m HEAD@{23}: commit: Update: Refactor config and program files
+[33mfb0d678[m[33m ([m[1;31morigin/feature/test-readme-update[m[33m)[m HEAD@{24}: commit: Test: Add note to README for MR testing
+[33md23f947[m HEAD@{25}: checkout: moving from main to feature/test-readme-update
+[33md23f947[m HEAD@{26}: checkout: moving from dev to main
+[33m343af15[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{27}: commit: ✅ Add unit test for CreateCustomerCommandHandler - conflict case
+[33m26292ee[m HEAD@{28}: commit: Fix: remove --no-build from test job
+[33m42adf7c[m HEAD@{29}: commit: Fix: run test directly on UnitTests project
+[33mc4eee17[m HEAD@{30}: commit: Update target frameworks to net8.0
+[33m5dcaebc[m HEAD@{31}: commit: ✅ CI Pipeline test üçün push
+[33me450331[m HEAD@{32}: commit: Trigger CI again
+[33mae1a08b[m HEAD@{33}: commit: Fix: Use specific .sln file for CI
+[33m35c99c0[m HEAD@{34}: commit: Add GitLab CI pipeline configuration
+[33md290be5[m HEAD@{35}: checkout: moving from main to dev
+[33md23f947[m HEAD@{36}: commit: Initial clean project with .gitignore
+[33m5d4d552[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{37}: checkout: moving from dev to main
+[33md290be5[m HEAD@{38}: commit: Fix: Use .NET 8 in GitHub Actions
+[33me762fa2[m HEAD@{39}: commit: Test GitHub Actions: README updated
+[33m4870854[m HEAD@{40}: commit: trigger CI after config fix
+[33m5e92287[m HEAD@{41}: commit: add: README.md to test CI pipeline
+[33m400c0ac[m HEAD@{42}: checkout: moving from main to dev
+[33m5d4d552[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{43}: commit: test workflow trigger
+[33me837724[m HEAD@{44}: commit: Remove appsettings.json from main branch
+[33mde4d997[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{45}: checkout: moving from dev to main
+[33m400c0ac[m HEAD@{46}: commit: Ignore appsettings.json
+[33me142a5c[m HEAD@{47}: commit: Remove appsettings.json from repo (sensitive info)
+[33mde4d997[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{48}: checkout: moving from main to dev
+[33mde4d997[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{49}: checkout: moving from dev to main
+[33mde4d997[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{50}: checkout: moving from master to dev
+[33mde4d997[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{51}: commit (initial): Clean up .vs files from Git index

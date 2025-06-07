@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  seq:
+    image: datalust/seq
+    container_name: salespilotcrm-seq
+    restart: always
+    ports:
+      - "5342:80"
+    environment:
+      - ACCEPT_EULA=Y
+      - SEQ_FIRSTRUN_ADMINPASSWORD=admin123
+    volumes:
+      - seq-data:/data
+
+volumes:
+  seq-data:
